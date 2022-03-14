@@ -8,5 +8,5 @@
 
 ## BASE
 
-- [00 Technical limitations](./docs/00.Technical limitations.md) 技术限制
-- [01 Getting started](./docs/01.Getting started.md) 跑起来
+- [00 Technical limitations](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/00.Technical%20limitations.md) 技术限制
+- [01 Getting started](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/01.Getting%20started.md) 跑起来
