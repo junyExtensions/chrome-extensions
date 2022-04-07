@@ -8,5 +8,7 @@
 
 ## BASE
 
-- [00 Technical limitations](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/00.Technical%20limitations.md) 技术限制
-- [01 Getting started](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/01.Getting%20started.md) 跑起来
+- [00.Technical limitations](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/00.Technical%20limitations.md) 技术限制
+- [01.Getting started](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/01.Getting%20started.md) 入门示例
+- [02.Overview](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/02.Overview.md) 扩展概览
+- [03.Development Guide](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/03.Development%20Guide.md) 开发指南
