@@ -12,3 +12,6 @@
 - [01.Getting started](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/01.Getting%20started.md) 入门示例
 - [02.Overview](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/02.Overview.md) 扩展概览
 - [03.Development Guide](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/03.Development%20Guide.md) 开发指南
+- [04.Core-Messaging](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/04.Core-Messaging.md) 通信
+- [05.Core-ContentScript](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/05.Core-ContentScript.md) 内容脚本
+- [06.Core-ServiceWorker](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/06.Core-ServiceWorker.md) 后台脚本
