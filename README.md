@@ -18,3 +18,8 @@
 - [04.Core-Messaging](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/04.Core-Messaging.md) 通信
 - [05.Core-ContentScript](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/05.Core-ContentScript.md) 内容脚本
 - [06.Core-ServiceWorker](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/06.Core-ServiceWorker.md) 后台脚本
+- [07.Core-Others](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/07.Core-Others.md) 其他（匹配规则、Promise 等）
+
+## Security
+
+- [08.Security](https://github.com/JunyWuuuu91/chrome-extensions/blob/main/docs/08.Security.md) 安全
