@@ -7,3 +7,14 @@ chrome.runtime.onMessage.addListener(function (msg, sender, sendResponse) {
     sendResponse("Color message is none.");
   }
 });
+
+const dom = document.createElement("div");
+dom.id = "insight-marker-container";
+dom.innerText = "xxxx";
+document.body.appendChild(dom);
+
+document.addEventListener("mouseup", (e) => {
+  const selectedText = window.getSelection()?.toString();
+  if (!selectedText) return;
+  console.log("selectedText", selectedText);
+});
